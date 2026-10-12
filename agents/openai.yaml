@@ -1,0 +1,6 @@
+interface:
+  display_name: "Matt XHS Studio"
+  short_description: "以清爽卡片、情境共鸣与鲜明观点，策划小红书图文并交付图片及发布文案"
+  default_prompt: "使用 $matt-xhs-studio 将我的选题制作成小红书图文，按内容安排页数，首次确认样图后完成图片和发布文案。"
+policy:
+  allow_implicit_invocation: true
